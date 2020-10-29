@@ -6,6 +6,7 @@
 # Task 1
 # Team number: 17
 
+# Our output:
 # 1- Connecting potentiometer to esp:
 ![](esp&potentiometer.jpeg)
 # 2- Sending these sensor readings via WiFi:
