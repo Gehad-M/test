@@ -3,7 +3,7 @@
 <!--UL-->
 <!-- URLs-->
 
-
+# Task 1
 # Team number: 17
 
 # 1- Connecting potentiometer to esp:
@@ -13,7 +13,7 @@
 ### 3- Sending these sensor readings to different clients "Desktop app, mobile app" Display and plot these readings in real time.
 ![](mobileapp.gif)  ![](desktopapp.gif)
 # The Database represents:
-### Potentiometer reading, Potentiometer is widely used in various fields: medical equipment, robotics.
+* Potentiometer reading, Potentiometer is widely used in various fields: medical equipment, robotics.
 ## for pusposes such as:
 ## Temperature Control: 
 * Control potentiometers may be used to adjust the amount of power supplied to a heater.
