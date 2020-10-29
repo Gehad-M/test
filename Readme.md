@@ -12,7 +12,7 @@
 ![](database.gif)
 # 3- Sending these sensor readings to different clients:
 * "Desktop app, mobile app" Display and plot these readings in real time.
-![](mobileapp.gif)  ![](desktopapp.gif)
+* ![](mobileapp.gif)  ![](desktopapp.gif)
 # The Database represents:
 * Potentiometer reading, Potentiometer is widely used in various fields: medical equipment, robotics.
 ## for pusposes such as:
